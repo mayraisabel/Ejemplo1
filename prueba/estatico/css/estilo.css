@@ -1,3 +1,14 @@
+*{
+ border-style: none;
+}
+
+ul li
+{
+	font-family: Arial;
+	background-color: red;
+	display: inline-block;
+	
+}
 #parrafo
 {
 	background: magenta;
